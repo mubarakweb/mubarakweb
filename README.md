@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQFje835sxkkXg/profile-displaybackgroundimage-shrink_350_1400/B4EZhzYCQCHoAY-/0/1754282341074?e=1756944000&v=beta&t=X3voQ3lN_oaQ2MNFAaA_HlLBr-eXm6shUEC53YmHAfY">
+<img style="width:1600px;height:496px;" src="https://media.licdn.com/dms/image/v2/D4E16AQFje835sxkkXg/profile-displaybackgroundimage-shrink_350_1400/B4EZhzYCQCHoAY-/0/1754282341074?e=1756944000&v=beta&t=X3voQ3lN_oaQ2MNFAaA_HlLBr-eXm6shUEC53YmHAfY">
 <h1 align="center">Hi 👋, I'm Muhamamd Mubarak Hossain</h1>
 <h3 align="center">Professional Website Design Developer || Wordpress Expert</h3>
 
